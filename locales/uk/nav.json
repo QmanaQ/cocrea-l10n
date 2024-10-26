@@ -2,19 +2,19 @@
   "about": "Про нас",
   "classroom": "Класна кімната",
   "createButton": "Створити",
-  "discord": "Сервер в Discord",
+  "discord": "Сервер в Діскорд",
   "docs": "Документація",
   "educators": "Для викладачів",
   "explore": "Досліджувати",
-  "facebook": "Група в Facebook",
+  "facebook": "Група в Фейсбук",
   "home": "Панель приладів",
   "homepage": "Домівка",
   "menu": {
-    "account": "Налаштування обл. запису",
-    "signout": "Вийти з обл. запису"
+    "account": "Налаштування обліковки",
+    "signout": "Вийти з обліковки"
   },
   "projects": "Проєкти",
-  "refer": "Naquagems",
+  "refer": "Накюаґеми",
   "search": {
     "placeholder": "Пошук проєктів або творців",
     "resultTitle": "Результати пошуку",
